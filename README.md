@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mismarissa
-- 👀 I’m interested 
+- 👀 I’m interested in Data Structures. 
 - 🌱 I’m currently learning python, SQL
-- 💞️ I’m looking to collaborate on live music projects or music catalogs.
+- 💞️ I’m looking to collaborate on live music projects, music catalogs.
 - 📫 How to reach me ...
 
 <!---
